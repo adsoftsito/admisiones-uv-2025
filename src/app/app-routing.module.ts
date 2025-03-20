@@ -1,8 +1,8 @@
 import { NgModule } from '@angular/core';
 import { RouterModule, Routes } from '@angular/router';
 
-import { TestsUvWebListComponent } from './components/tests-uv-web-list/tests-uv-web-list.component';
-import { AddTestUvWebComponent } from './components/add-test-uv-web/add-test-uv-web.component';
+import { AdmisionUvWebListComponent } from './components/admision-uv-web-list/admision-uv-web-list.component';
+import { AddAdmisionUvWebComponent } from './components/add-admision-test-uv-web/add-admision-uv-web.component';
 
 const routes: Routes = [
 //  { path: '', redirectTo: 'add', pathMatch: 'full' },
